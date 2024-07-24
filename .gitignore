@@ -1,0 +1,16 @@
+# Python
+*.pyc
+__pycache__/
+
+# Environment variables
+.env
+
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Streamlit files
+.streamlit/
