@@ -2,6 +2,8 @@
 *.pyc
 __pycache__/
 
+.anaconda/
+
 # Environment variables
 .env
 
@@ -14,3 +16,7 @@ __pycache__/
 
 # Streamlit files
 .streamlit/
+
+
+
+
