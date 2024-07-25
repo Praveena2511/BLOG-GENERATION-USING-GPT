@@ -3,4 +3,4 @@ python-box
 streamlit
 transformers
 python-dotenv
-openai
+openai==0.28
